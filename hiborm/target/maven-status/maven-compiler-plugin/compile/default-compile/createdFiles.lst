@@ -1,0 +1,3 @@
+com\example\hiborm\model\Employee.class
+com\example\hiborm\util\HibernateUtil.class
+com\example\hiborm\App.class
