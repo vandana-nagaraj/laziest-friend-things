@@ -16,7 +16,7 @@
 			<artifactId>hibernate-core</artifactId>
 			<version>6.4.4.Final</version>
 		</dependency>
-
+		
 		<!-- Logging -->
 		<dependency>
 			<groupId>org.slf4j</groupId>
@@ -43,5 +43,15 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
+		
 	</dependencies>
+	<repositories>
+		<repository>
+			<id>my-company-repo</id>
+			<url>http://path.to.your.private.repository/maven/</url>
+		</repository>
+	</repositories>
+	
+	
+	
 </project>
